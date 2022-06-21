@@ -1,6 +1,6 @@
 {
-  "name": "Mention All Bot",
-  "description": "A simple mention all for telegram.",
+  "name": "Türkiye Mention All Bot",
+  "description": "Telegram Grubunuzdaki Üyelerin Hepsini Etiketleyebilirim...",
   "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
